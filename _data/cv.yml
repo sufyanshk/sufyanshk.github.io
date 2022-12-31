@@ -14,7 +14,7 @@
     - title: PhD - Metallurgical and Materials Engineering
       institution: Indian Insitute of Technology Madras, Tamil Nadu, India
       year: 2023
-      description:
+#      description:
 #        - Description 1.
 #        - Description 2.
 #        - title: Description 3.
@@ -65,27 +65,36 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Larry Kaufman Scholarship, CALPHAD Inc., Sweden
+    - year: 2015
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Steel Scholarship, Ministry of Steel, Govt. of India
+    - year: 2020
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Best Poster Award, 3rd International Workshop on High Entropy Materials, Indian Institute of Technology Kanpur, India
+    - year: 2021
       items:
-        - Description 1.
-        - Description 2.
+        - Top-100 Augumenting Writing Skills for Articulating Research (AWSAR) Award, Dept. of Science & Technology, Govt. of India
+    - year: 2014
+      items:
+        - Best Poster Award, National Metallurgists' Day, Annual Technical Meet, Govt. College of Engineering Pune, India
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
