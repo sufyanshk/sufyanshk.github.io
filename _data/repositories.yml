@@ -3,7 +3,7 @@ github_users:
 
 github_repos:
   - sufyanshk/RLD
-  - sufyanshk/gnuplot_files
+#  - sufyanshk/gnuplot_files
   - sufyanshk/generate_sqs
   - sufyanshk/imagej
   - gphanikumar/MM2090
