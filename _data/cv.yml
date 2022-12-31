@@ -68,19 +68,18 @@
     - year: 2022
       items: 
         - Larry Kaufman Scholarship, CALPHAD Inc., Sweden
-    - year: 2015
-      items: 
-        - Steel Scholarship, Ministry of Steel, Govt. of India
-    - year: 2020
-      items: 
-        - Best Poster Award, 3rd International Workshop on High Entropy Materials, Indian Institute of Technology Kanpur, India
     - year: 2021
       items:
         - Top-100 Augumenting Writing Skills for Articulating Research (AWSAR) Award, Dept. of Science & Technology, Govt. of India
+    - year: 2020
+      items: 
+        - Best Poster Award, 3rd International Workshop on High Entropy Materials, Indian Institute of Technology Kanpur, India
+    - year: 2015
+      items: 
+        - Steel Scholarship, Ministry of Steel, Govt. of India
     - year: 2014
       items:
         - Best Poster Award, National Metallurgists' Day, Annual Technical Meet, Govt. College of Engineering Pune, India
-
 
 #- title: Academic Interests
 #  type: nested_list
