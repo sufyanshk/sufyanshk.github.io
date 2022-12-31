@@ -15,28 +15,30 @@
       institution: Indian Insitute of Technology Madras, Tamil Nadu, India
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+
     - title: Master of Technology - Metallurgical and Materials Engineering
       institution: Indian Insitute of Technology Madras, Tamil Nadu, India
       year: 2023
-      description:
-        - Description 1.
-        - Description 2.
+#      description:
+#        - Description 1.
+#        - Description 2.
+    
     - title: Bachelor of Technology - Metallurgical Engineering
       institution: Government College of Eningginering Pune, Maharashtra, India
       year: 2015
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
 
 - title: Experience
   type: time_table
