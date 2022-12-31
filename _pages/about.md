@@ -12,7 +12,7 @@ profile:
     <p>New Academic Complex - 106</p>
     <p>Metallurgical and Mataterials Engineering</p>
     <p>Indian Institute of Technology Madras</p>
-    <p>Sardar Patel Road, Chennai, Tamil Nadu 600036</p>
+    <p>Chennai, Tamil Nadu 600036</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
