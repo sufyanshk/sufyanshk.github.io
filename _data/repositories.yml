@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sufyanshk
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sufyanshk/RLD
+  - sufyanshk/gnuplot_files
+  - sufyanshk/generate_sqs
+  - sufyanshk/imagej
+  - gphanikumar/MM2090
