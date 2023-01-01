@@ -14,9 +14,8 @@
     - title: PhD - Metallurgical and Materials Engineering
       institution: Indian Insitute of Technology Madras, Tamil Nadu, India
       year: 2023
-#      description:
-#        - Description 1.
-#        - Description 2.
+      description:
+        - Intrinsically ductile refractory alloy development using ab-initio atomistic modeling. 
 #        - title: Description 3.
 #          contents:
 #            - Sub-description 1.
@@ -25,16 +24,17 @@
     - title: Master of Technology - Metallurgical and Materials Engineering
       institution: Indian Insitute of Technology Madras, Tamil Nadu, India
       year: 2023
-#      description:
+      description:
+        - Unraveled the role of enthalpy of formation in improving the intrinsic ductility of refractory alloys and lattice distortion.
 #        - Description 1.
 #        - Description 2.
     
     - title: Bachelor of Technology - Metallurgical Engineering
       institution: Government College of Eningginering Pune, Maharashtra, India
       year: 2015
-#      description:
-#        - Description 1.
-#        - Description 2.
+      description:
+        - Surface Mechanical Attrition Treatment (SMAT) of Al6061-T6 alloy.
+        - Surface alloying of Al6061-T6 with Si using SMAT. 
 #        - title: Description 3.
 #          contents:
 #            - Sub-description 1.
@@ -46,14 +46,27 @@
     - title: Intern
       institution: General Electric Global Research Center, Karnataka, India
       year: 2022
+      description:
+        - Literature survey on the current state-of-the-art superalloys and their Refractory High Entropy Alloys (RHEA) alternatives.
+	- Literature survey on the H-embrittlement of Ni-based superalloys.
+	- Authored 2 research reports on RHEA and H-embrittlement of superalloys for scientists.
 
     - title: Materials Lab Engineer
       institution: Bekaert India Technical Center, Maharashtra, India
       year: 2015 - 2017
+      description:
+	- Managed Materials Lab team of 4 analysists with annual budget of INR 2.2M.
+	- Head of the SEM-EDS and Advanced Metallography facility in India.
+	- Collaborated with teams from 5 countries on multiple R&D projects.
+	- Successfully renewed ISO/TS16949 (IATF 16949) certification of the Materials Lab.
 
     - title: Intern
       institution: Bekaert India Technical Center, Maharashtra, India
       year: 2013
+      description:
+	- Systematic study of metallogrpahic sample preparation process for stainless steel.
+	- Optimized sample preparation process leading to 22% time savings.
+	- Developed 2 etchants and etching techniques.
 
 #- title: Open Source Projects
 #  type: time_table
@@ -67,16 +80,19 @@
   contents:
     - year: 2022
       items: 
-        - Larry Kaufman Scholarship, CALPHAD Inc., Sweden
+        - Larry Kaufman Scholarship, CALPHAD Inc., Sweden. One of the only 12 recipients worldwide for 2022.
     - year: 2021
       items:
-        - Augumenting Writing Skills for Articulating Research (AWSAR) Award, Dept. of Science & Technology, Govt. of India
+        - Augumenting Writing Skills for Articulating Research (AWSAR) Award, Dept. of Science & Technology, Govt. of India. Top-100 among 2063 participants all over India.
     - year: 2020
       items: 
-        - Best Poster Award, 3rd International Workshop on High Entropy Materials, Indian Institute of Technology Kanpur, India
+        - Best Poster Award, 3rd International Workshop on High Entropy Materials, Indian Institute of Technology Kanpur, India. Winner among 77 teams from India.
     - year: 2015
       items: 
-        - Steel Scholarship, Ministry of Steel, Govt. of India
+        - Steel Scholarship, Ministry of Steel, Govt. of India. One of the only 4 recipients of scholarship if INR 0.12Mn among 70 students for academic excellence. 
+    - year: 2015
+      items: 
+	- All India Rank of 299 among 3745 participants in the Graduate Aptitude Test in Engineering (GATE).
     - year: 2014
       items:
         - Best Poster Award, National Metallurgists' Day-Annual Technical Meet, Govt. College of Engineering Pune, India
@@ -93,7 +109,8 @@
 #        - Description 1.
 #        - Description 2.
 
-#- title: Other Interests
-#  type: list
-#  contents:
-#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Other Interests
+  type: list
+  contents:
+    - Poetry, Psychology, Behaviorial Economics, Traveling.
+#    - <u>Hobbies:</u> Poetry, Psychology, Behaviorial Economics. 
