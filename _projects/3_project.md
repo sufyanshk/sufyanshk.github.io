@@ -7,7 +7,7 @@ importance: 3
 category: work
 ---
 
-This project was sponsored by the United States Air Force Research Laboratory with Prof. B. S. Murty of the Indian Institute of Technology Madras as PI. Me and Dr. Lavanya Raman together worked on this project.
+This project was sponsored by the United States Air Force Research Laboratory with Prof. B. S. Murty of the Indian Institute of Technology Madras as PI. Dr. Lavanya Raman (then PhD Research Scholar with Prof. Murty) and I together worked on this project.
 
 I studied 126 quaternary and 126 quinary equiatomic refractory high entropy alloys (RHEA) made from Group IV (Ti, Zr, Hf), Group V (V, Nb, Ta), and Group VI (Cr, Mo, W) elements. We used Rule-of-mixtures (ROM) technique to calculate liquidus temperature, density (ρ), Young’s modulus (E), % atomic size difference (δ), valence electron concentration (VEC), and specific heat at constant pressure and at 1273 K (Cp). CALPHAD technique is used (thanks to V. S. Hariharan) to predict the number of phases formed at 298 K, ρ, and liquidus temperature.
 
@@ -31,6 +31,6 @@ We found that the ROM calculated densities match perfectly with CALPHAD values. 
     Scatter matrix plot of quinary RHEA.
 </div>
 
-The numbers in blue in the above figures show the <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient">Pearson's correlation coefficient</a>. The 6 distinct groups in δ vs. Cp graph of quinary RHEA needs further research. Some of the findings from this work were later proved by experimental and/or DFT simulations by different researchers. The addition of HCP elements was shown to increase the <a href="https://www.doi.org/10.1080/14786440808520496">Pugh's ratio of alloys indicating that HCP elemental addition leads to improvement in the ductility of RHEA. However, Pugh's ratio is an empirical parameter borrowed from FCC pure metals in 1954. The applicability of Pugh's ratio to BCC systems remains to be verified.
+The numbers in blue in the above figures show the <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient">Pearson's correlation coefficient</a>. The 6 distinct groups in δ vs. Cp graph of quinary RHEA needs further research. Some of the findings from this work were later proved by experimental and/or DFT simulations by different researchers. The addition of HCP elements was shown to increase the <a href="https://www.doi.org/10.1080/14786440808520496">Pugh's ratio</a> of alloys indicating that HCP elemental addition leads to improvement in the ductility of RHEA. However, Pugh's ratio is an empirical parameter borrowed from FCC pure metals in 1954. The applicability of Pugh's ratio to BCC systems remains to be verified.
 
 This work resulted in a <a href="https://doi.org/10.1016/j.intermet.2020.106926">publication</a> in the Intermetallics journal and an <a href="https://apps.dtic.mil/sti/pdfs/AD1170060.pdf">AFRL project report</a>.
