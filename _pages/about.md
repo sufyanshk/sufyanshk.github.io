@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! Welcome to my webpage. This page is a "work in progress".
+Hi! Welcome to my website.
 
 I am an MTech-PhD Research Scholar at the Indian Institute of Technology Madras, Tamil Nadu, India, where I am developing alloys for high-temperature structural applications using ab-initio atomistic modeling. My PhD thesis is on understanding the effect of alloying elements on the
 deformation and strengthening behavior of refractory BCC alloys.
@@ -37,7 +37,7 @@ I extensively use various Computational Materials Engineering tools such as <a h
 
 My research has been recognized through 4 peer-reviewed publications (a few more are in the pipeline), 1 Scholarship Award, 2 Poster Presentation Awards, 2 Govt. of India Awards, 5 International Conference Presentations, and 1 US Air Force Research Lab report. I am a proponent of Data-driven Materials Discovery, Design, and Development. I have extensive experience in Project Management, Physical Metallurgy, Failure Investigations, and Process-Structure-Property-Performance analysis using Advanced Metallography & Scanning Electron Microscopy. I am a practitioner of First-principles Thinking and Problem Solving.
 
-I believe the next revolution in Materials Development will happen at the confluence of Physics, Computer Science, and Materials Science & Engineering, with Materials Informatics and <a href=""https://www.awsar-dst.in/2020/winner_article_2020_view/view/Mr_Sufyan_M_Shaikh.pdf>Integrated Computational Materials Engineering (ICME)</a> accelerating the Materials Development cycles.
+I believe the next revolution in Materials Development will happen at the confluence of Physics, Computer Science, and Materials Science & Engineering, with Materials Informatics and <a href="https://www.awsar-dst.in/2020/winner_article_2020_view/view/Mr_Sufyan_M_Shaikh.pdf">Integrated Computational Materials Engineering (ICME)</a> accelerating the Materials Development cycles.
 
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, and Urdu during my downtime.
 I am actively seeking a new job opportunity.
