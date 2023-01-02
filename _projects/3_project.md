@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Refractory High Entropy Alloys
+title: Refractory High Entropy Alloys for High Temperature Structural Applications
 description: PI - Prof. B. S. Murty (IIT Madras)
 img: assets/img/3_project/thumbnail.jpg
 importance: 3
