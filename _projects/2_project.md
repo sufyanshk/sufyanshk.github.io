@@ -22,8 +22,8 @@ We studied 36 equiatomic binary refractory alloys and found that the enthalpy of
 
 Here we select only the equiatomic shearing interface to calculate the γ_usfe and γ_s of alloys. The equiatomic shearing interface ensures that the values are inline with the the accurate formula chemistry of the alloy. In some of the earlier <a href="https://doi.org/10.1016/j.actamat.2021.116800">works</a>, the γ_usfe was being calculated for all the shearing interfaces present in the supercell. If the supercell had 10 slip planes then the final γ_usfe was the average of 9 different γ_usfe values as given in belofe figure.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/2_project/shearingInterfaces.jpg" title="Shearing interfaces" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
