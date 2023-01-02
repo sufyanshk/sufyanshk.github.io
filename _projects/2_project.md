@@ -1,15 +1,17 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Refractory binary alloy development.
+description: Masters Thesis
+img: assets/img/2_project/thumbnail.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Understanding the role of enthalpy of formation in enhancing the intrinsic ductility of equiatomic binary refractory alloys. Here I found that the enthalpy of formation strongly influences the change in \(γ_usfe\) over its composition averaged value.
+
+I studied 36 equiatomic binary refractory alloys and found that the enthalpy of formation should be within -120 meV/Atom to +120 meV/Atom for the alloys to be intrinsically ductile. The large enthalpy of formation requirement should be compensated by a sufficiently large entropy.
+
+Here we showed that the widely held notion of reduction in valence electron concentration (VEC), leading to improvement in ductility of refractory alloys may not be applicable everywhere. I found that it is the large decrease in the \(γ_usfe\) which is leading to improvement in intrinsic ductility of refractory alloys. This observation is supported by the role of low valency Ti/Zr/Hf as well as high valency Re in improving the ductility of refractory alloys.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

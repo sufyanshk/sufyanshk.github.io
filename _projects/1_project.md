@@ -9,8 +9,7 @@ category: work
 
 Developing ductile refractory alloys have remained a challenge due to variety of design parameters put forth by various researchers. Here I am focusing on the intrinsic ductility parameter (D) to develope refractory concenterated alloys.
 
-The intrinsic ductility is a ratio of surface energy \(\gamma_s\) and unstable stacking fault energy \(\gamma_{usfe}\). Accurate calculation of D requires accurate calculation of\(\gamma_s\) and \(\gamma_{usfe}\).
-This work requires accurate calculation of
+The intrinsic ductility is a ratio of surface energy \(γ_s\) and unstable stacking fault energy \(γ_usfe\). Accurate calculation of D requires accurate calculation of\(\gamma_s\) and \(\gamma_{usfe}\).
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

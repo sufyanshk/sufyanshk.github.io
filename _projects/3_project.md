@@ -1,12 +1,20 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Refractory High Entropy Alloys
+description: PI - Prof. B. S. Murty (IIT Madras)
+img: assets/img/3_project/thumbnail.jpg
 importance: 3
 category: work
 ---
+
+This project was sponsored by the United States Air Force Research Laboratory with Prof. B. S. Murty of Indian Institute of Technology Madras as PI. Me and Dr. Lavanya Raman together worked on this project. Dr. Raman led the experimental part of study and I was leading the modeling part.
+
+I studied 126 quaternary and 126 quinary equiatomic refractory high entropy alloys (RHEA), made from Group IV (Ti, Zr, Hf), Group V (V, Nb, Ta) and Group VI (Cr, Mo, W) elements. We used Rule-of-mixtures (ROM) technique to calculate liquidus temperature, density (ρ), Young’s modulus (E), % atomic size difference (δ), valence electron concentration (VEC) and specific heat at constant pressure and at 1273 K (Cp). CALPHAD technique is used (thanks of V. S. Hariharan) to predict the number of phases formed at 298 K, ρ and liquidus temperature.
+
+We found that the ROM calculated densities are matching perfectly with CALPHAD values. Densities and E are directly proportional to the VEC and liquidus temperature of the alloys. Ti, Zr, Hf are ductilizing the alloys and making them light; whereas Cr, Mo and W, are reducing the alloys’ ductility and making them heavy. For quinary RHEAs, Cp showed six distinct groups with δ, but a similar trend was not observed in quaternary RHEA. Here we used scatter matrix methodology to screen a large number of alloys based on various properties.
+
+This work resulted in a <a href="https://doi.org/10.1016/j.intermet.2020.106926">publication</a> in the Intermetallics journal and an <a href="https://apps.dtic.mil/sti/pdfs/AD1170060.pdf">AFRL project report</a>.
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
