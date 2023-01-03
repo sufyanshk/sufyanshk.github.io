@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Refractory binary alloy development
+title: Methodology Development for Calculating $$\gamma_{usfe}$$
 description: Masters Thesis
 img: assets/img/2_project/thumbnail.jpg
 importance: 2

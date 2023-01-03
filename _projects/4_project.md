@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grain Boundary Misorientation 
-description: Developed a MATLAB code as part of a course during PhD. 
+description: Developed a MATLAB code as part of a course during PhD
 img:
 importance: 4 
 category: work 
