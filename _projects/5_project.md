@@ -1,10 +1,10 @@
 ---
 layout: page
 title:
-description: To study the contribution of vibrational entropic to overall entropy
+description: 
 img: 
 importance: 3
-category: work 
+category: fun 
 ---
 
 This project is led by <a href="https://in.linkedin.com/in/rafshan-ul-atik-2433bb16a">Rafshan-Ul-Atik</a> who is a Master's student in our <a href="http://mme.iitm.ac.in/satyesh/index.html">research group</a>.
