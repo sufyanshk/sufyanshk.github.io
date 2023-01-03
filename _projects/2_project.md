@@ -17,7 +17,7 @@ We studied 36 equiatomic binary refractory alloys and found that the enthalpy of
     </div>
 </div>
 <div class="caption">
-    The workflow developed in this work can be 9x faster than the brute-force calculation of $$\gamma_{usfe}$$ using DFT.
+    The workflow developed in this work can be 9x faster than the brute-force calculations.
 </div>
 
 Here we select only the equiatomic shearing interface to calculate the $$\gamma_{usfe}$$ and $$\gamma_s$$ of alloys. The equiatomic shearing interface ensures that the values are inline with the the accurate formula chemistry of the alloy. In some of the earlier <a href="https://doi.org/10.1016/j.actamat.2021.116800">works</a>, the $$\gamma_{usfe}$$ was being calculated for all the shearing interfaces present in the supercell. If the supercell had 10 slip planes then the final $$\gamma_{usfe}$$ was the average of 9 different $$\gamma_{usfe}$$ values as given in belofe figure.

@@ -11,14 +11,14 @@ enable_math: true # enables math typesetting (uses MathJax)
 Developing ductile refractory alloys has remained a challenge due to various design parameters put forth by different researchers to understand the intrinsic ductility of BCC alloys. Here I am focusing on the intrinsic ductility parameter (D) to develop concentrated refractory alloys.
 
 The D is defined as,
-$$ D = \frac{\gamma_s}{\gamma_{usfe}} $$
-$$\gamma_s$$ is surface energy and $$\gamma_{usfe}$$ is unstable stacking fault energy. Under the framework of <a href="https://en.wikipedia.org/wiki/Density_functional_theory">Density Functional Theory (DFT)</a>, the $$\gamma_s$$ is defined as below,
+<p>$$ D = \frac{\gamma_s}{\gamma_{usfe}} $$</p>
+where, $$\gamma_s$$ is surface energy and $$\gamma_{usfe}$$ is unstable stacking fault energy. Under the framework of <a href="https://en.wikipedia.org/wiki/Density_functional_theory">Density Functional Theory (DFT)</a>, the $$\gamma_s$$ is defined as below,
 $$ \gamma_s = \frac{E_{pristine}-E_{pristine+vac}}{Area\ of\ surface} $$
-Here, the $$E_{pristine}$$ is the energy of the pristine supercell without any surface and $$E_{pristine+vac}$$ is the supercell having surface, i.e. the same pristine supercell is exposed to vacuum of suitable $$\AA$$ (generally a vacuum of $$\geq7\AA$$ should suffice). The $$\gamma_{usfe}$$ is defines as below,
-$$ 	\gamma_{usfe} = \frac{E_{faulted}-E_{pristine}}{(Area\ of\ Plane)} $$
+Here, the $$E_{pristine}$$ is the energy of the pristine supercell without any surface and $$E_{pristine+vac}$$ is the supercell having surface, i.e. the same pristine supercell is exposed to vacuum of suitable A (generally a vacuum of $$\geq7A$$ should suffice). The $$\gamma_{usfe}$$ is defines as below,
+<p>$$ 	\gamma_{usfe} = \frac{E_{faulted}-E_{pristine}}{(Area\ of\ Plane)} $$</p>
 Here, the $$E_{faulted}$$ is the energy of supercell having a stacking fault and the $$E_{pristine}$$ is the energy of pristine supercell. The {110}<111> slip system of BCC metals/alloys has the lowest energy barrier for activation. Therefore, we have chosen the same slip system in present study.
 
-Accurate calculation of D requires an accurate estimate of $$\gamma_s$$ and $$\gamma_{usfe}$$. Therefore, in my Master's Thesis I developed a <a href="/projects/2_project/">methodology</a> based on DFT framework to accurately calculate the $$\gamma_s$$ and $$\gamma_{usfe}$$ and quantify the errors associate with them.
+Accurate calculation of D requires an accurate estimate of $$\gamma_s$$ and $$\gamma_{usfe}$$. Therefore, in my Master's Thesis I developed a <a href="/projects/2_project/">methodology</a> based on DFT framework to accurately calculate the $$\gamma_s$$ and $$\gamma_{usfe}$$ and quantify the errors associated with them.
 
 Based on the above methodology our goal is to optimally reduce the number of alloys studied as we move from binaries to ternaries to higher-order alloy systems, as depicted in the figure below.
 
