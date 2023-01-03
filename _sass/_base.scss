@@ -276,6 +276,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  width: 100%; //test
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
@@ -295,6 +296,7 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+  width: 100%; //test
 }
 
 // CV
