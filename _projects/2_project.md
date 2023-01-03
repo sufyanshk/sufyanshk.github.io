@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methodology Development for Calculating $$\gamma_{usfe}$$
+title: Methodology Development for Calculating USFE 
 description: Masters Thesis
 img: assets/img/2_project/thumbnail.jpg
 importance: 2
