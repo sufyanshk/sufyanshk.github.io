@@ -5,6 +5,7 @@ description: PhD Thesis
 img: assets/img/1_project/thumbnail.jpg
 importance: 1
 category: work
+enable_math: true # enables math typesetting (uses MathJax)
 ---
 
 Developing ductile refractory alloys has remained a challenge due to various design parameters put forth by different researchers to understand the intrinsic ductility of BCC alloys. Here I am focusing on the intrinsic ductility parameter (D) to develop concentrated refractory alloys.
