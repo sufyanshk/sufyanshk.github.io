@@ -6,6 +6,7 @@ img: assets/img/3_project/thumbnail.jpg
 importance: 3
 category: work
 ---
+<!-- <d-cite key="gregor2015draw"></d-cite> FOR CITING LITERATURE FORM BIBLIOGRAPHY KEY CAN BE ANY THING FROM BIBLIOGRAPHY SIMILAR TO NORMAL LATEX BIBFILE-->
 
 This project was sponsored by the United States Air Force Research Laboratory with Prof. B. S. Murty of the Indian Institute of Technology Madras as PI. Dr. Lavanya Raman (then PhD Research Scholar with Prof. Murty) and I together worked on this project.
 
@@ -31,6 +32,6 @@ We found that the ROM calculated densities match perfectly with CALPHAD values. 
     Scatter matrix plot of quinary RHEA.
 </div>
 
-The numbers in blue in the above figures show the <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient">Pearson's correlation coefficient</a>. The 6 distinct groups in δ vs. Cp graph of quinary RHEA needs further research. Some of the findings from this work were later proved by experimental and/or DFT simulations by different researchers. The addition of HCP elements was shown to increase the <a href="https://www.doi.org/10.1080/14786440808520496">Pugh's ratio</a> of alloys indicating that HCP elemental addition leads to improvement in the ductility of RHEA. However, Pugh's ratio is an empirical parameter borrowed from FCC pure metals in 1954. The applicability of Pugh's ratio to BCC systems remains to be verified.
+The numbers in blue in the above figures show the <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient">Pearson's correlation coefficient</a>. The 6 distinct groups in δ vs. Cp graph of quinary RHEA needs further research. Some of the findings from this work were later proved by experimental and/or DFT simulations by different researchers. The addition of HCP elements was shown to increase the <a href="https://www.doi.org/10.1080/14786440808520496">Pugh's ratio</a> of alloys indicating that HCP elemental addition leads to improvement in the ductility of RHEA. However, Pugh's ratio is an empirical parameter borrowed from FCC pure metals in 1954. The applicability of Pugh's<d-cite key="test,Shaikh2014NMD"></d-cite> ratio to BCC systems remains to be verified.
 
 This work resulted in a <a href="https://doi.org/10.1016/j.intermet.2020.106926">publication</a> in the Intermetallics journal and an <a href="https://apps.dtic.mil/sti/pdfs/AD1170060.pdf">AFRL project report</a>.
