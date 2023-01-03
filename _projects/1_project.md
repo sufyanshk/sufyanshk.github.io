@@ -8,6 +8,15 @@ category: work
 enable_math: true # enables math typesetting (uses MathJax)
 ---
 
+\(\approxeq\)
+$\approxeq$
+$$\approxeq$$
+\[ \approxeq \]
+\[
+\approxeq
+\]
+\[\approxeq\]
+
 Developing ductile refractory alloys has remained a challenge due to various design parameters put forth by different researchers to understand the intrinsic ductility of BCC alloys. Here I am focusing on the intrinsic ductility parameter (D) to develop concentrated refractory alloys.
 
 The intrinsic ductility is a ratio of surface energy (\(\gamma_s\)) and unstable stacking fault energy (\(\gamma_{usfe}\)). Accurate calculation of D requires an accurate estimate of \(\gamma_s\) and \(\gamma_{usfe}\). 
