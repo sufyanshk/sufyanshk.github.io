@@ -9,7 +9,7 @@ category: work
 
 Developing ductile refractory alloys has remained a challenge due to various design parameters put forth by different researchers to understand the intrinsic ductility of BCC alloys. Here I am focusing on the intrinsic ductility parameter (D) to develop concentrated refractory alloys.
 
-The intrinsic ductility is a ratio of surface energy \(γ_s\) and unstable stacking fault energy \(γ_usfe\). Accurate calculation of D requires an accurate estimate of γ_s and γ_usfe.
+The intrinsic ductility is a ratio of surface energy \[\gamma_s\] and unstable stacking fault energy \[\gamma_{usfe}\]. Accurate calculation of D requires an accurate estimate of \[\gamma_s\] and \[\gamma_{usfe}\]. 
 
 This work aims to optimally reduce the number of alloys studied as we move from binaries to ternaries to higher-order alloy systems, as depicted in the figure below.
 
