@@ -20,15 +20,15 @@ We studied 36 equiatomic binary refractory alloys and found that the enthalpy of
     The workflow developed in this work can be 9x faster than the brute-force calculations.
 </div>
 
-Here we select only the equiatomic shearing interface to calculate the $$\gamma_{usfe}$$ and $$\gamma_s$$ of alloys. The equiatomic shearing interface ensures that the values are inline with the the accurate formula chemistry of the alloy. In some of the earlier <a href="https://doi.org/10.1016/j.actamat.2021.116800">works</a>, the $$\gamma_{usfe}$$ was being calculated for all the shearing interfaces present in the supercell. If the supercell had 10 slip planes then the final $$\gamma_{usfe}$$ was the average of 9 different $$\gamma_{usfe}$$ values as given in belofe figure.
+Here we select only the equiatomic shearing interface to calculate the $$\gamma_{usfe}$$ and $$\gamma_s$$ of alloys. The equiatomic shearing interface ensures that the values are inline with the the accurate formula chemistry of the alloy. In some of the earlier <a href="https://doi.org/10.1016/j.actamat.2021.116800">works</a>, the $$\gamma_{usfe}$$ was being calculated for all the shearing interfaces present in the supercell. If the supercell had 10 slip planes then the final $$\gamma_{usfe}$$ was the average of 9 different $$\gamma_{usfe}$$ values as given in belowe figure.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.html path="assets/img/2_project/shearingInterfaces.jpg" title="Shearing interfaces" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-	The same supercell can give 9 different $$\gamma_{usfe}$$ values depending upon the stoichiometry of that shearing interface.
+	The same supercell can give 9 different USFE values depending upon the stoichiometry of that shearing interface.
 </div>
 
 Therefore selecting the shearing interface with formula stoichiometry can give the correct $$\gamma_{usfe}$$ 9x faster than the earlier method.
@@ -39,7 +39,7 @@ Therefore selecting the shearing interface with formula stoichiometry can give t
     </div>
 </div>
 <div class="caption">
-    The same supercell can be sheared in 4 different directions to give 4 different $$\gamma_{usfe}$$ values.
+    The same supercell can be sheared in 4 different directions to give 4 different USFE values.
 </div>
 
 The shearing interface with correct stoichiometry can be sheared in 4 different directions leading to 4 different $$\gamma_{usfe}$$ values. However, we select the $$\gamma_{usfe}$$ corresponding to the lowest energy difference between pristine and sheared supercell. This ensures that the large change in stoichiometry does not affect our final $$\gamma_{usfe}$$ and $$\gamma_s$$ values. This methodology also helps us quantify the errors associated with the $$\gamma_{usfe}$$ value due to stoichiometry change after shearing.
