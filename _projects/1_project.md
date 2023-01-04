@@ -22,7 +22,7 @@ Accurate calculation of D requires an accurate estimate of $$\gamma_s$$ and $$\g
 Based on the above methodology our goal is to optimally reduce the number of alloys studied as we move from binaries to ternaries to higher-order alloy systems, as depicted in the figure below.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/1_project/funnel.jpg" title="funnel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

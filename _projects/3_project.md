@@ -14,7 +14,7 @@ I studied 126 quaternary and 126 quinary equiatomic refractory high entropy allo
 
 We found that the ROM calculated densities match perfectly with CALPHAD values. Densities and E are directly proportional to the VEC and liquidus temperature of the alloys. Ti, Zr, and Hf are ductilizing the alloys and making them light; whereas Cr, Mo and W are reducing the alloys’ ductility and making them heavy. For quinary RHEAs, Cp showed six distinct groups with δ, but a similar trend was not observed in quaternary RHEA. Here we used scatter matrix methodology to screen a large number of alloys based on various properties.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3_project/4RHEA.jpg" title="Scatter matrix for quaternary" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -23,7 +23,7 @@ We found that the ROM calculated densities match perfectly with CALPHAD values. 
     Scatter matrix plot of quaternary RHEA.
 </div>
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3_project/5RHEA.jpg" title="Scatter matrix for quinaries" class="img-fluid rounded z-depth-1" %}
     </div>
