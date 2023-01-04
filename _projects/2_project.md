@@ -12,7 +12,7 @@ Understanding the role of enthalpy of formation in enhancing the intrinsic ducti
 We studied 36 equiatomic binary refractory alloys and found that the enthalpy of formation should be within -120 meV/Atom to +120 meV/Atom for the alloys to be intrinsically ductile. The large enthalpy of formation requirement should be compensated by a sufficiently large entropy.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/2_project/workflow.jpg" title="workflow" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -34,7 +34,7 @@ Here we select only the equiatomic shearing interface to calculate the $$\gamma_
 Therefore selecting the shearing interface with formula stoichiometry can give the correct $$\gamma_{usfe}$$ 9x faster than the earlier method.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/2_project/shearings.jpg" title="shearing method" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
