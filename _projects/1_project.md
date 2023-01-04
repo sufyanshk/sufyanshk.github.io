@@ -21,9 +21,6 @@ Here, the $$E_{faulted}$$ is the energy of supercell having a stacking fault and
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/1_project/shearingVideo.mov" title="Shearing video" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1_project/faultRelaxation.mov" title="Shearing relaxation" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
     First half of the supercell being sheared with respect to the bottom half.
