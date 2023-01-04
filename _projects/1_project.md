@@ -27,7 +27,7 @@ Here, the $$E_{faulted}$$ is the energy of supercell having a stacking fault and
 </div>
 
 There are total 10 shearings are occuring in the above video. For BCC crystal structure with burger's vector $$\bar{b}$$,
-<p>$$  d = m \times \bar{b} $$</p>
+<p>$$  d = m \bar{b} $$</p>
 where $$m\in[0.1,1.0]$$. After every slip displacement d, the atoms are allowed to relax in all directions except the shearing direction. If the shearing direction is X, then the atoms are allowed to relax in Y and Z directions only.
 
 <div class="row justify-content-sm-center">
