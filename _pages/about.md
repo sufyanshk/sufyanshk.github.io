@@ -32,7 +32,7 @@ I have been trained in steel wire microstructural analysis at Bekaert’s global
 During my time at Bekaert, I successfully renewed the IATF 16949 certification of the Materials Lab, led more than 52 materials investigations, managed a lab with an annual budget of about INR 2.2 million, worked on cross-functional projects with teams from 5 countries, and led a team of 4 analysts. My frequent interactions with the Indian Steelmakers/Suppliers, Customers, Product Development teams, Purchase Teams, and my international counterparts from 5 countries have improved my Communication and Presentation skills, Problem-solving skills, and Persuasion skills.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/map.jpg" title="World Map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
