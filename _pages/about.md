@@ -33,23 +33,7 @@ During my time at Bekaert, I successfully renewed the IATF 16949 certification o
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/map.png" title="World Map" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Places where I have either worked or been to or have cross-functional collaborators 
-</div>
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/map.jpg" title="World Map" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Places where I have either worked or been to or have cross-functional collaborators 
-</div>
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/map.pdf" title="World Map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
