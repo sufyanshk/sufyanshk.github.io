@@ -26,7 +26,20 @@ Here, the $$E_{faulted}$$ is the energy of supercell having a stacking fault and
     </div>
 </div>
 <div class="caption">
-    First half of the supercell being shearing with respect to the bottom half. Relaxation happening at the unstable stacking fault.
+    First half of the supercell being sheared with respect to the bottom half.
+</div>
+
+There are total 10 shearings are occuring in the above video. For BCC crystal structure with burger's vector $$\bar{b}$$,
+<p>$$  d = m \times \bar{b} $$</p>
+where $$m\in[0.1,1.0]$$. After every slip displacement d, the atoms are allowed to relax in all directions except the shearing direction. If the shearing direction is X, then the atoms are allowed to relax in Y and Z directions only.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1_project/faultRelaxation.mov" title="Shearing relaxation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Relaxation occuring in all directions except in the slip direction at the unstable stacking fault.
 </div>
 
 Accurate calculation of D requires an accurate estimate of $$\gamma_s$$ and $$\gamma_{usfe}$$. Therefore, in my Master's Thesis I developed a <a href="/projects/2_project/">methodology</a> based on DFT framework to accurately calculate the $$\gamma_s$$ and $$\gamma_{usfe}$$ and quantify the errors associated with them.
