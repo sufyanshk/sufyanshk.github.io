@@ -16,6 +16,18 @@ where, $$\gamma_s$$ is surface energy and $$\gamma_{usfe}$$ is unstable stacking
 Here, the $$E_{pristine}$$ is the energy of the pristine supercell without any surface and $$E_{pristine+vac}$$ is the supercell having surface, i.e. the same pristine supercell is exposed to vacuum of suitable A (generally a vacuum of $$\geq7A$$ should suffice). The $$\gamma_{usfe}$$ is defines as,
 <p>$$ 	\gamma_{usfe} = \frac{E_{faulted}-E_{pristine}}{(Area\ of\ Plane)} $$</p>
 Here, the $$E_{faulted}$$ is the energy of supercell having a stacking fault and the $$E_{pristine}$$ is the energy of pristine supercell. The {110}<111> slip system of BCC metals/alloys has the lowest energy barrier for activation. Therefore, we have chosen the same slip system in present study.
+	
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1_project/shearingVideo.mov" title="Shearing video" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1_project/shearingRelaxation.mov" title="Shearing relaxation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    First half of the supercell being shearing with respect to the bottom half. Relaxation happening at the unstable stacking fault.
+</div>
 
 Accurate calculation of D requires an accurate estimate of $$\gamma_s$$ and $$\gamma_{usfe}$$. Therefore, in my Master's Thesis I developed a <a href="/projects/2_project/">methodology</a> based on DFT framework to accurately calculate the $$\gamma_s$$ and $$\gamma_{usfe}$$ and quantify the errors associated with them.
 
