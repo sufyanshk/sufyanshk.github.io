@@ -19,3 +19,8 @@ where $$\Delta E_f$$ is the enthalpy of formation at 0K, $$\Delta(PV)$$ is the p
 <p>$$	\Delta G = \Delta E_f - T\Delta S_{config} - T\{\Delta S_{vib} + \Delta S_{mag} + \Delta S_{elec}\} $$</p>
 
 Our focus in present work is to understand how much $$S_{vib}$$ is contributing to the overall $$\Delta S$$.
+
+<d-appendix>
+ <d-footnote-list></d-footnote-list>
+ <d-citation-list></d-citation-list>
+</d-appendix>
