@@ -48,5 +48,4 @@ My research has been recognized through 4 peer-reviewed publications (a few more
 
 I believe the next revolution in Materials Development will happen at the confluence of Physics, Computer Science, and Materials Science & Engineering, with Materials Informatics and <a href="https://www.awsar-dst.in/2020/winner_article_2020_view/view/Mr_Sufyan_M_Shaikh.pdf">Integrated Computational Materials Engineering (ICME)</a> accelerating the Materials Development cycles.
 
-I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, and Urdu during my downtime.
-I am actively seeking a new job opportunity.
+I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, and Urdu during my downtime. **I am actively seeking a new job opportunity.**
