@@ -20,7 +20,7 @@ We studied 36 equiatomic binary refractory alloys and found that the enthalpy of
     The workflow developed in this work can be 9x faster than the brute-force calculations.
 </div>
 
-Here we select only the equiatomic shearing interface to calculate the $$\gamma_{usfe}$$ and $$\gamma_s$$ of alloys. The equiatomic shearing interface ensures that the values are inline with the the accurate formula chemistry of the alloy. In some of the earlier <a href="https://doi.org/10.1016/j.actamat.2021.116800">works</a>, the $$\gamma_{usfe}$$ was being calculated for all the shearing interfaces present in the supercell. If the supercell had 10 slip planes then the final $$\gamma_{usfe}$$ was the average of 9 different $$\gamma_{usfe}$$ values as given in belowe figure.
+Here we select only the equiatomic shearing interface to calculate the $$\gamma_{usfe}$$ and $$\gamma_s$$ of alloys. The equiatomic shearing interface ensures that the values are inline with the the accurate formula chemistry of the alloy. In some of the earlier works<d-cite key="Hu2021c"></d-cite>, the $$\gamma_{usfe}$$ was being calculated for all the shearing interfaces present in the supercell. If the supercell had 10 slip planes then the final $$\gamma_{usfe}$$ was the average of 9 different $$\gamma_{usfe}$$ values as given in belowe figure.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -46,4 +46,13 @@ The shearing interface with correct stoichiometry can be sheared in 4 different 
 
 Here we showed that the widely held notion of reduction in valence electron concentration (VEC), leading to improvement in ductility of refractory alloys may not be applicable everywhere. We found that it is the large decrease in the $$\gamma_{usfe}$$ which is leading to improvement in intrinsic ductility of refractory alloys. This observation is supported by the role of low valency Ti/Zr/Hf as well as high valency Re in improving the ductility of refractory alloys.
 
-I had presented this work at the <a href="https://calphad.org/CALPHAD-2022-home">CALPHAD-2022</a> conference in Sweden. This work has been <a href="https://doi.org/10.1016/j.jallcom.2022.168597">published</a> in the Journal of Alloys and Compounds.
+I had presented this work at the <a href="https://calphad.org/CALPHAD-2022-home">CALPHAD-2022</a> conference in Sweden. This work has been published<d-cite key="Shaikh2022"></d-cite> in the Journal of Alloys and Compounds.
+
+<script src="/assets/js/distillpub/template.v2.js"></script>
+<script src="/assets/js/distillpub/transforms.v2.js"></script>
+<script src="/assets/js/distillpub/overrides.js"></script>
+<d-appendix>
+ <d-footnote-list></d-footnote-list>
+ <d-citation-list></d-citation-list>
+</d-appendix>
+<d-bibliography src="/assets/bibliography/siteLibrary.bib"></d-bibliography>
