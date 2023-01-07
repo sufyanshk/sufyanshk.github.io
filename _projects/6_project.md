@@ -7,10 +7,13 @@ importance: 6
 category: work 
 ---
 
-This project is led by <a href=""https://www.linkedin.com/in/vinod-sarky>Vinod Sarky</a>, who is a Master's student in our <a href="http://mme.iitm.ac.in/satyesh/index.html">research group</a>.
+This project is led by <a href="https://www.linkedin.com/in/vinod-sarky">Vinod Sarky</a>, who is a Master's student in our <a href="http://mme.iitm.ac.in/satyesh/index.html">research group</a>.
 
 In our earlier work<d-cite key="Shaikh2022m"></d-cite> we found that addition of HCP elements such as Ti/Zr/Hf leads to improved Pugh's ratio and lower density in concentrated refractory alloys. However, these HCP elements are susceptible to oxygen absorption. In this work we are studying the oxygen behavior in concentrated refractory alloys.
 
+<script src="/al-folio/assets/js/distillpub/template.v2.js"></script>
+<script src="/al-folio/assets/js/distillpub/transforms.v2.js"></script>
+<script src="/al-folio/assets/js/distillpub/overrides.js"></script>
 <d-appendix>
  <d-footnote-list></d-footnote-list>
  <d-citation-list></d-citation-list>
