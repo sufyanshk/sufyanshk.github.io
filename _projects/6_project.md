@@ -15,3 +15,4 @@ In our earlier work<d-cite key="Shaikh2022m"></d-cite> we found that addition of
  <d-footnote-list></d-footnote-list>
  <d-citation-list></d-citation-list>
 </d-appendix>
+<d-bibliography src="/assets/bibliography/siteLibrary.bib"></d-bibliography>
