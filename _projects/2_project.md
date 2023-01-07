@@ -55,4 +55,4 @@ I had presented this work at the <a href="https://calphad.org/CALPHAD-2022-home"
  <d-footnote-list></d-footnote-list>
  <d-citation-list></d-citation-list>
 </d-appendix>
-<d-bibliography src="/assets/bibliography/siteLibrary.bib"></d-bibliography>
+<d-bibliography src="/assets/bibliography/library.bib"></d-bibliography>
