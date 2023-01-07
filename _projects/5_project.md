@@ -27,4 +27,4 @@ Our focus in present work is to understand how much $$S_{vib}$$ is contributing 
  <d-footnote-list></d-footnote-list>
  <d-citation-list></d-citation-list>
 </d-appendix>
-<d-bibliography src="/assets/bibliography/siteLibrary.bib"></d-bibliography>
+<d-bibliography src="/assets/bibliography/library.bib"></d-bibliography>

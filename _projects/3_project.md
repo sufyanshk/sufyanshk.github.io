@@ -43,4 +43,4 @@ This work resulted in a publication<d-cite key="Shaikh2020m"></d-cite> in the In
  <d-footnote-list></d-footnote-list>
  <d-citation-list></d-citation-list>
 </d-appendix>
-<d-bibliography src="/assets/bibliography/siteLibrary.bib"></d-bibliography>
+<d-bibliography src="/assets/bibliography/library.bib"></d-bibliography>
