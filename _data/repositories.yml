@@ -2,7 +2,7 @@ github_users:
   - sufyanshk
 
 github_repos:
-  - sufyanshk/RLD
+#  - sufyanshk/RLD
 #  - sufyanshk/gnuplot_files
   - sufyanshk/generate_sqs
   - sufyanshk/imagej
