@@ -20,14 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! Welcome to my website.
 
-I am an MTech-PhD Research Scholar at the Indian Institute of Technology Madras, Tamil Nadu, India, where I am developing alloys for high-temperature structural applications using ab-initio atomistic modeling. My PhD thesis is on understanding the effect of alloying elements on the
-deformation and strengthening behavior of refractory BCC alloys.
+I am a PhD Research Scholar at the Indian Institute of Technology Madras (IIT Madras), Tamil Nadu, India, where I am developing alloys for high-temperature structural applications using ab-initio atomistic modeling. My PhD thesis is on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory alloys.
 
-My thesis advisors are <a href="https://mme.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Indian Institute of Technology Madras) and <a href="https://mme.iitm.ac.in/murty/bsmurty">Prof. B. S. Murty</a> (Director - Indian Insitute of Technology Hyderabad). I did my Bachelors in Metallurgical Engineering from Govt. College of Engineering Pune in 2015, where I was awarded the Govt. of India - Ministry of Steel Scholarship of ₹120,000 for academic excellence.
+My thesis advisors are <a href="https://mme.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras) and <a href="https://mme.iitm.ac.in/murty/bsmurty">Prof. B. S. Murty</a> (Director - Indian Insitute of Technology Hyderabad). I did my Bachelors in Metallurgical Engineering from COEP Technological University (COEP, previously known as Government College of Engineering Pune), Maharshtra, India in 2015, where I was awarded the Government of India - Ministry of Steel Scholarship of ₹120,000 for academic excellence.
 
-Before joining IIT Madras, I was heading the Materials Lab at <a href="https://www.bekaert.com/en/about-us">Bekaert</a> India Technical Centre in Pune, Maharashtra, India. At Bekaert, I led a team of microscopists and metallographers in the metallurgical characterization of tire cords, circlips, automotive springs, and wire rods using advanced metallography and SEM-EDS.
+Before joining IIT Madras, I was heading the Materials Lab at <a href="https://www.bekaert.com/en/about-us">Bekaert</a> India Technical Centre in Pune, Maharashtra, India. At Bekaert, I led a team of 4 microscopists and metallographers in the metallurgical characterization of tire cords, circlips, automotive springs, and wire rods using Advanced Metallography and SEM-EDS.
 
-I have been trained in steel wire microstructural analysis at Bekaert’s global R&D headquarters in Belgium and Asian R&D headquarters in China. I have also been trained in the wire drawing process in India, the Czech Republic, and Indonesia. My internal customer portfolio included Bekaert’s plants and R&D teams from India, the USA, Europe, Indonesia, Brazil, and Malaysia.
+I have been trained in steel wire microstructural analysis at Bekaert’s global R&D headquarters in Belgium, Asian R&D headquarters in China. I have also been trained in the wire drawing process in India, Czech Republic, and Indonesia. My internal customer portfolio included Bekaert’s manufacturing plants and R&D teams from India, USA, Europe, Indonesia, Brazil, and Malaysia.
 
 During my time at Bekaert, I successfully renewed the IATF 16949 certification of the Materials Lab, led more than 52 materials investigations, managed a lab with an annual budget of about INR 2.2 million, worked on cross-functional projects with teams from 5 countries, and led a team of 4 analysts. My frequent interactions with the Indian Steelmakers/Suppliers, Customers, Product Development teams, Purchase Teams, and my international counterparts from 5 countries have improved my Communication and Presentation skills, Problem-solving skills, and Persuasion skills.
 
@@ -40,7 +39,7 @@ During my time at Bekaert, I successfully renewed the IATF 16949 certification o
     Places where I have either worked or been to or have cross-functional collaborators 
 </div>
 
-I have 7+ years of experience in Project Management, Team Management, Industrial Research, and Cross-functional Collaborations. I like solving business problems using the first principles approach by discussing complex ideas in simple terms with Customers, Suppliers, Internal Teams, and Executive Management.
+I have 7+ years of experience in Project Management, Team Management, Industrial/Academic Research, and Cross-functional Collaborations. I like solving business problems using the First-principles approach by discussing complex ideas in simple terms with Customers, Suppliers, Internal Teams, and Executive Management.
 
 I extensively use various Computational Materials Engineering tools such as <a href="https://vasp.at">Vienna Ab-initio Simulation Package</a> (Density Functional Theory/ab-initio Atomistic Modeling), <a href="https://jp-minerals.org/vesta/en/download.html">VESTA</a> (atomic structure visualization), <a href="https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/">ATAT</a> (for special quasi-random structure generation), and <a href="https://atomsk.univ-lille.fr">Atomsk</a> (atomic structure file manipulation) to create <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a> of microstructural phases of Metallic Materials. I enjoy automating routine tasks using Shell scripting/programming, which saves time and effort.
 
