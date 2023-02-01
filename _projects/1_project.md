@@ -23,7 +23,7 @@ Here, the $$E_{faulted}$$ is the energy of supercell having a stacking fault and
     </div>
 </div>
 <div class="caption">
-    First half of the supercell being sheared with respect to the bottom half.
+    First half of the supercell being sheared with respect to the bottom half. The code to generate the SQS is at <a href="/generate_sqs">generate_sqs repository</a>.
 </div>
 
 There are total 10 shearings are occuring in the above video. For BCC crystal structure with burger's vector $$\bar{b}$$,
