@@ -4,7 +4,9 @@ github_users:
 github_repos:
 #  - sufyanshk/RLD
 #  - sufyanshk/gnuplot_files
+  - sufyanshk/BaderPostProcess
   - sufyanshk/generate_sqs
+  - sufyanshk/RLD
   - sufyanshk/imagej
   - gphanikumar/MM2090
   - sufyanshk/flux_scripts
