@@ -2,7 +2,6 @@ github_users:
   - sufyanshk
 
 github_repos:
-#  - sufyanshk/RLD
 #  - sufyanshk/gnuplot_files
   - sufyanshk/BaderPostProcess
   - sufyanshk/generate_sqs
@@ -20,3 +19,4 @@ github_repos:
   - pyiron/pyiron
   - materialsproject/pymatgen
   - tilde-lab/awesome-materials-informatics
+  - DuaneDJohnson/Hybrid-Cuckoo-Search
