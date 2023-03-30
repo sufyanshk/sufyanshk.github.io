@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! Welcome to my website.
-**I have submitted my PhD Thesis and actively seeking a new job opportunity. Let me know if you have any opportunity.**
+**I have submitted my PhD Thesis and actively seeking a new job opportunity. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
 
 I am a PhD Research Scholar at the Indian Institute of Technology Madras (IIT Madras), Tamil Nadu, India, where I am developing alloys for high-temperature structural applications using ab-initio atomistic modeling. My PhD thesis is on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory metal alloys. My thesis advisors are <a href="https://mme.iitm.ac.in/murty/bsmurty">Prof. B. S. Murty</a> (Director - Indian Insitute of Technology Hyderabad) and <a href="https://mme.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras).
 
@@ -46,4 +46,4 @@ During my time at Bekaert, I successfully renewed the IATF 16949 certification o
 
 I believe the next revolution in Materials Development will happen at the confluence of Physics, Computer Science, and Materials Science & Engineering, with Materials Informatics and <a href="https://www.awsar-dst.in/2020/winner_article_2020_view/view/Mr_Sufyan_M_Shaikh.pdf">Integrated Computational Materials Engineering (ICME)</a> accelerating the <a href="https://iit-techambit.in/computational-materials-science/">Materials Development cycles</a>.
 
-I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, and Urdu during my downtime. **I have submitted my PhD Thesis and actively seeking a new job opportunity. Let me know if you have any opportunity.**
+I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, and Urdu during my downtime. **I have submitted my PhD Thesis and actively seeking a new job opportunity. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
