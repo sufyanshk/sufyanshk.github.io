@@ -48,8 +48,8 @@
       year: 2023
       description:
         - Developed 24 codes and bash scripts for finite element analysis of stress development during semiconductor manufacturing process.
-	- Benchmarked the developed FEA code against the commercial FEA software.
-	- Developed Design of Experiments (DOE) scheme for FEA stress analysis of silicon wafers during semiconductor manufacturing process. 
+        - Benchmarked the developed FEA code against the commercial FEA software.
+        - Developed Design of Experiments (DOE) scheme for FEA stress analysis of silicon wafers during semiconductor manufacturing process. 
     
     - title: Metals and Modeling Intern
       institution: General Electric Global Research Center, Bengaluru, India
