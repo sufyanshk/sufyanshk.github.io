@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Sufyan M. Shaikh
+      value: Dr. Sufyan M. Shaikh
     - name: Date of Birth
       value: 25th March
     - name: Languages
@@ -15,7 +15,7 @@
       institution: Indian Insitute of Technology Madras, Tamil Nadu, India
       year: 2023
       description:
-        - Intrinsically ductile refractory alloy development using ab-initio atomistic modeling. 
+        - Intrinsically ductile refractory high entropy alloy design using density functional theory (ab-initio atomistic modeling). 
 #        - title: Description 3.
 #          contents:
 #            - Sub-description 1.
