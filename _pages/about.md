@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! Welcome to my website.
-**I have submitted my PhD Thesis and actively seeking a new job opportunity. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
+**I have defended my PhD Thesis and actively seeking a new job opportunity. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
 
 I am PhD graduate from the Indian Institute of Technology Madras (IIT Madras), Tamil Nadu, India, where I am developing alloys for high-temperature structural applications using ab-initio atomistic modeling. My PhD thesis is on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory metal alloys. My thesis advisors are <a href="https://mme.iitm.ac.in/murty/bsmurty">Prof. B. S. Murty</a> (Director - Indian Insitute of Technology Hyderabad) and <a href="https://mme.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras).
 
