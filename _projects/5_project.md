@@ -9,7 +9,7 @@ category: work
 
 This project is led by <a href="https://in.linkedin.com/in/rafshan-ul-atik-2433bb16a">Rafshan-Ul-Atik</a> who is a Master's student in our <a href="http://mme.iitm.ac.in/satyesh/index.html">research group</a>.
 
-The discussion below is taken from my publication<d-cite key="Shaikh2022"></d-cite>:
+The discussion below is taken from my publication<d-cite key="Shaikh2023a"></d-cite>:
 
 The stability of an alloy (solid solution) is dictated by the Gibbs energy of its constituent phases as,
 <p>$$ \Delta G = \Delta H - T\Delta S $$</p>
