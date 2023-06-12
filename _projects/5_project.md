@@ -17,7 +17,7 @@ The stability of an alloy (solid solution) is dictated by the Gibbs energy of it
 where $$\Delta E_f$$ is the enthalpy of formation at 0K, $$\Delta(PV)$$ is the pressure-volume term, $$\Delta S_{config}$$ is the configurational entropy, $$\Delta S_{vib}$$ is the vibrational entropy, $$\Delta S_{mag}$$ is the magnetic entropy, and $$\Delta S_{elec}$$ is the electronic entropy. The $$\Delta(PV)$$ term can be ignored. Therefore the equation becomes,
 <p>$$	\Delta G = \Delta E_f - T\Delta S_{config} - T\{\Delta S_{vib} + \Delta S_{mag} + \Delta S_{elec}\} $$</p>
 
-Our focus in present work is to understand how much $$S_{vib}$$ is contributing to the overall $$\Delta S$$.
+Our focus in present work is to understand how much $$\Delta S_{vib}$$ is contributing to the overall $$\Delta S$$. We found that contrary to the long help notion that the $$\Delta S_{config}$$ is the primary reason for calling ``High Entropy Alloy" as ``High Entropy"; it is the $$\Delta S_{vib}$$ which is contributing majorly to the overall entropy in concetrated alloys. We observed this after studying the absolute entropy $$S$$ and the difference of entropy $$\Delta S$$ of alloy with its constituent elements. This work has been archived<d-cite key="Atik2023"></d-cite> and has been submitted.
 
 
 <script src="/assets/js/distillpub/template.v2.js"></script>
