@@ -2,7 +2,7 @@
 layout: page
 title: Grain Boundary Misorientation 
 description: Developed a MATLAB code as part of a course during PhD
-img:
+img: assets/img/4_project/tiltTwist.png
 importance: 4 
 category: work 
 ---
