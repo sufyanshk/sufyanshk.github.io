@@ -17,9 +17,9 @@ The first step in oxidation of an alloy is the generation of a stable oxygen int
 
 Vinod has developed a <a href="https://github.com/VinoSarky/NEIGHBOR">code</a> to calcualte the list of nearest neighbors (NN) based on cut-off radius.
 
-<script src="/al-folio/assets/js/distillpub/template.v2.js"></script>
-<script src="/al-folio/assets/js/distillpub/transforms.v2.js"></script>
-<script src="/al-folio/assets/js/distillpub/overrides.js"></script>
+<script src="/assets/js/distillpub/template.v2.js"></script>
+<script src="/assets/js/distillpub/transforms.v2.js"></script>
+<script src="/assets/js/distillpub/overrides.js"></script>
 <d-appendix>
  <d-footnote-list></d-footnote-list>
  <d-citation-list></d-citation-list>
