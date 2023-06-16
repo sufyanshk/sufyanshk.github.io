@@ -12,9 +12,9 @@ Developing ductile refractory alloys has remained a challenge due to various des
 The D is defined as,
 <p>$$ D = \frac{\gamma_s}{\gamma_{usfe}} $$</p>
 where, $$\gamma_s$$ is surface energy and $$\gamma_{usfe}$$ is unstable stacking fault energy. Under the framework of <a href="https://en.wikipedia.org/wiki/Density_functional_theory">Density Functional Theory (DFT)</a>, the $$\gamma_s$$ is defined as,
-<p>$$ \gamma_s = \frac{E_{pristine}-E_{pristine+vac}}{Area\ of\ surface} $$</p>
+<p>$$ \gamma_s = \frac{E_{pristine}-E_{pristine+vac}}{2(Area\ of\ Surface)} $$</p>
 Here, the $$E_{pristine}$$ is the energy of the pristine supercell without any surface and $$E_{pristine+vac}$$ is the supercell having surface, i.e. the same pristine supercell is exposed to vacuum of suitable A (generally a vacuum of $$\geq7A$$ should suffice). The $$\gamma_{usfe}$$ is defines as,
-<p>$$ 	\gamma_{usfe} = \frac{E_{faulted}-E_{pristine}}{(Area\ of\ Plane)} $$</p>
+<p>$$ 	\gamma_{usfe} = \frac{E_{faulted}-E_{pristine}}{2(Area\ of\ Plane)} $$</p>
 Here, the $$E_{faulted}$$ is the energy of supercell having a stacking fault and the $$E_{pristine}$$ is the energy of pristine supercell. The {110}<111> slip system of BCC metals/alloys has the lowest energy barrier for activation. Therefore, we have chosen the same slip system in present study.
 	
 <div class="row justify-content-sm-center">
@@ -40,6 +40,8 @@ where $$m\in[0.1,1.0]$$. After every slip displacement d, the atoms are allowed 
 </div>
 
 Accurate calculation of D requires an accurate estimate of $$\gamma_s$$ and $$\gamma_{usfe}$$. Therefore, in my Master's Thesis I developed a <a href="/projects/2_project/">methodology</a> based on DFT framework to accurately calculate the $$\gamma_s$$ and $$\gamma_{usfe}$$ and quantify the errors associated with them.
+
+The BCC crystal structure has 3 slip systems, $$<111>\{110\}$$, $$<111>\{112\}$$, and $$<111>\{123\}$$. Out of these 3 slip systems, the most acitve slip system in BCC crystals is $$<111>\{110\}$$. Rest 2 slip systems get activate at high temperature as the planes $$\{112\}$$ and $$\{123\}$$ are not as closed-packed as $$\{110\}$$. Majority of the deformation in BCC crystal occurs due the dislocation slip on $$<111>\{110\}$$ slip system. Therefore, we have focused on the $$\gamma_{usfe}$$ of the $$<111>\{110\}$$ and the $$\gamma_{s}$$ of $$\{110\}$$ plane. The intrinsic ductility parameter (D) has also been calculated for the same slip system.
 
 Based on the above methodology our goal is to optimally reduce the number of alloys studied as we move from binaries to ternaries to higher-order alloy systems, as depicted in the figure below.
 
