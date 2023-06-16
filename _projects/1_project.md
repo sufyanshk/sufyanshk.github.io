@@ -19,7 +19,7 @@ Here, the $$E_{faulted}$$ is the energy of supercell having a stacking fault and
 	
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include video.html path="assets/img/1_project/shearingVideo.mp4" title="Shearing video" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="assets/img/1_project/shearingVideo.mp4" title="Shearing video" class="img-fluid rounded z-depth-1" autoplay=true %}
     </div>
 </div>
 <div class="caption">
@@ -32,7 +32,7 @@ where $$m\in[0.1,1.0]$$. After every slip displacement d, the atoms are allowed 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1_project/faultRelaxation.mp4" title="Shearing relaxation" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="assets/img/1_project/faultRelaxation.mp4" title="Shearing relaxation" class="img-fluid rounded z-depth-1" autoplay=true %}
     </div>
 </div>
 <div class="caption">
