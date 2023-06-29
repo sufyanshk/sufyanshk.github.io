@@ -66,3 +66,12 @@ Based on the above methodology our goal is to optimally reduce the number of all
 The alloy development funnel ensures that the compositional explosion does not take place as we move from binaries to ternaries to higher-order alloy systems. What criteria to be selected to filter out alloy candidates is an integral part of my PhD dissertation. Every stage in the above funnel reduces the number of alloys to be studied based on specific property expectations criteria.
 
 This is ongoing work; hence this page will be updated periodically.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1_project/calphad2020.jpg" title="High Entropy Alloy presentation at CALPHAD-2020 Conference in Sweden." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Paradigm shift in alloy design where we combine the best of all constituent elements. I was the only 13 researchers worldwide in 2020 to be awarded the prestigious Larry Kaufman Scholarship to present this work at the CALPHAD conference in Sweden. 
+</div>
