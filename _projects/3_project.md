@@ -38,7 +38,7 @@ This work resulted in a publication<d-cite key="Shaikh2020m"></d-cite> in the In
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3_project/poster.jpg" title="Winning poster at the 3rd International Workshop on High Entrop Materials, Indian Institute of Technology Kanpur." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3_project/poster.jpg" title="Winning poster at the 3rd International Workshop on High Entropy Materials, Indian Institute of Technology Kanpur." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
