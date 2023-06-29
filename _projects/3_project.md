@@ -36,6 +36,16 @@ The numbers in blue in the above figures show the <a href="https://en.wikipedia.
 
 This work resulted in a publication<d-cite key="Shaikh2020m"></d-cite> in the Intermetallics journal and an AFRL project report<d-cite key="AFRL2022"></d-cite>.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3_project/poster.jpg" title="Winning poster at the 3rd International Workshop on High Entrop Materials, Indian Institute of Technology Kanpur." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Winning poster at the 3rd International Workshop on High Entrop Materials, Indian Institute of Technology Kanpur.
+</div>
+
+
 <script src="/assets/js/distillpub/template.v2.js"></script>
 <script src="/assets/js/distillpub/transforms.v2.js"></script>
 <script src="/assets/js/distillpub/overrides.js"></script>
