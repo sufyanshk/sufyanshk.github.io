@@ -42,7 +42,7 @@ This work resulted in a publication<d-cite key="Shaikh2020m"></d-cite> in the In
     </div>
 </div>
 <div class="caption">
-    Winning poster at the 3rd International Workshop on High Entrop Materials, Indian Institute of Technology Kanpur.
+    Winning poster at the 3rd International Workshop on High Entropy Materials, Indian Institute of Technology Kanpur.
 </div>
 
 
