@@ -46,4 +46,13 @@ During my time at Bekaert, I successfully renewed the IATF 16949 certification o
 
 I believe the next revolution in Materials Development will happen at the confluence of Physics, Computer Science, and Materials Science & Engineering, with Materials Informatics and <a href="https://www.awsar-dst.in/2020/winner_article_2020_view/view/Mr_Sufyan_M_Shaikh.pdf">Integrated Computational Materials Engineering (ICME)</a> accelerating the <a href="https://iit-techambit.in/computational-materials-science/">Materials Development cycles</a>.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/graduationPhoto.jpg" title="Graduation Photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Graduation photo at IIT Madras. 
+</div>
+
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, and Urdu during my free time. **I have defended my PhD Thesis and actively seeking a new job opportunity. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
