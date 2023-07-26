@@ -48,7 +48,7 @@ I believe the next revolution in Materials Development will happen at the conflu
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/graduationPhoto.jpg" title="Graduation Photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/graduationPhoto.png" title="Graduation Photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
