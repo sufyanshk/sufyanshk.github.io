@@ -55,4 +55,13 @@ I believe the next revolution in Materials Development will happen at the conflu
     Graduation photo at IIT Madras. 
 </div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include video.html path="assets/img/graduationVideo.mov" title="Graduation Video" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    Graduation video at IIT Madras.
+</div>
+
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, and Urdu during my free time. **I have defended my PhD Thesis and actively seeking a new job opportunity. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
