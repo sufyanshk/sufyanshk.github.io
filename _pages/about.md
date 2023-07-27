@@ -56,3 +56,13 @@ I believe the next revolution in Materials Development will happen at the conflu
 </div>
 
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, and Urdu during my free time. **I have defended my PhD Thesis and actively seeking a new job opportunity. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
+
+Here's a short video where I was part of IIT Madras' Research Scholars video.
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include video.html path="assets/img/IITM_Research_Scholars_2020.mp4" title="IIT Madras research scholars" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+IIT Madras Research Scholars video.
+</div>
