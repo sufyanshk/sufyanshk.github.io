@@ -1,11 +1,15 @@
 ---
 layout: page
-title: 
-description: a project with no image
+title: Surface Mechanical Attrition Treatment (SMAT)
+description: BTech Thesis
 img:
-importance: 4
+importance: 7
 category: fun
 ---
+
+Surface Mechanical Attrition Treatment (SMAT) is a technique where tiny steel balls are repeatedly hit on the metallic sample's surface to introduce compressive stresses. By putting the required alloy powder in the specimen chamber, we were able to alloy the surface of the sample with the required chemical species.
+
+We successfully demonstrated the surface alloying of Al-6061 T6 alloy samples with Si.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
