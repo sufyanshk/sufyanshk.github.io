@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p><a href="https://goo.gl/maps/QLeRZgQpXAecAYJb7">New Academic Complex - 106</a></p>
     <p>Metallurgical and Materials Engineering</p>
