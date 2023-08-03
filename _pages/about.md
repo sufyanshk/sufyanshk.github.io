@@ -59,8 +59,8 @@ I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to 
 
 Here's a short video where I was part of IIT Madras' Research Scholars video.
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include video.html path="assets/img/IITM_Research_Scholars_2020_cropped.mp4" title="IIT Madras research scholars" class="img-fluid rounded z-depth-1" width="100%" controls=true autoplay=true %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/img/IITM_Research_Scholars_2020_cropped.mp4" title="IIT Madras research scholars" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
 <div class="caption">
