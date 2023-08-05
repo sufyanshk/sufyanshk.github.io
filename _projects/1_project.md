@@ -73,7 +73,7 @@ This is ongoing work; hence this page will be updated periodically.
     </div>
 </div>
 <div class="caption">
-    Paradigm shift in alloy design where we combine the best of all constituent elements. I was one of the only 13 researchers worldwide in 2020 to be awarded the prestigious Larry Kaufman Scholarship to present this work at the CALPHAD conference in Sweden. 
+    Paradigm shift in alloy design where we combine the best of all constituent elements. I was one of the only 13 researchers worldwide in 2020 to be awarded the prestigious Larry Kaufman Scholarship. I presented this work at the CALPHAD conference in Sweden in May 2022. 
 </div>
 
 <script src="/assets/js/distillpub/template.v2.js"></script>
