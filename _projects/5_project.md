@@ -7,7 +7,7 @@ importance: 5
 category: work 
 ---
 
-This project is led by <a href="https://in.linkedin.com/in/rafshan-ul-atik-2433bb16a">Rafshan-Ul-Atik</a> who is a Master's student in our <a href="http://mme.iitm.ac.in/satyesh/index.html">research group</a>.
+This project is led by <a rel="nofollow" href="https://in.linkedin.com/in/rafshan-ul-atik-2433bb16a">Rafshan-Ul-Atik</a> who is a Master's student in our <a rel="nofollow" href="http://mme.iitm.ac.in/satyesh/index.html">research group</a>.
 
 The discussion below is taken from my publication<d-cite key="Shaikh2023a"></d-cite>:
 

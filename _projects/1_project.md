@@ -11,7 +11,7 @@ Developing ductile refractory alloys has remained a challenge due to various des
 
 The D is defined as,
 <p>$$ D = \frac{\gamma_s}{\gamma_{usfe}} $$</p>
-where, $$\gamma_s$$ is surface energy and $$\gamma_{usfe}$$ is unstable stacking fault energy. Under the framework of <a href="https://en.wikipedia.org/wiki/Density_functional_theory">Density Functional Theory (DFT)</a>, the $$\gamma_s$$ is defined as,
+where, $$\gamma_s$$ is surface energy and $$\gamma_{usfe}$$ is unstable stacking fault energy. Under the framework of <a rel="nofollow" href="https://en.wikipedia.org/wiki/Density_functional_theory">Density Functional Theory (DFT)</a>, the $$\gamma_s$$ is defined as,
 <p>$$ \gamma_s = \frac{E_{pristine}-E_{pristine+vac}}{2(Area\ of\ Surface)} $$</p>
 Here, the $$E_{pristine}$$ is the energy of the pristine supercell without any surface and $$E_{pristine+vac}$$ is the supercell having surface, i.e. the same pristine supercell is exposed to vacuum of suitable A (generally a vacuum of $$\geq7A$$ should suffice). The $$\gamma_{usfe}$$ is defines as,
 <p>$$ 	\gamma_{usfe} = \frac{E_{faulted}-E_{pristine}}{2(Area\ of\ Plane)} $$</p>

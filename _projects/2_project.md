@@ -48,7 +48,7 @@ The shearing interface with correct stoichiometry can be sheared in 4 different 
 
 Here we showed that the widely held notion of reduction in valence electron concentration (VEC), leading to improvement in ductility of refractory alloys may not be applicable everywhere. We found that it is the large decrease in the $$\gamma_{usfe}$$ which is leading to improvement in intrinsic ductility of refractory alloys. This observation is supported by the role of low valency Ti/Zr/Hf as well as high valency Re in improving the ductility of refractory alloys.
 
-I had presented this work at the <a href="https://calphad.org/CALPHAD-2022-home">CALPHAD-2022</a> conference in Sweden. This work has been published<d-cite key="Shaikh2023a"></d-cite> in the Journal of Alloys and Compounds.
+I had presented this work at the <a rel="nofollow" href="https://calphad.org/CALPHAD-2022-home">CALPHAD-2022</a> conference in Sweden. This work has been published<d-cite key="Shaikh2023a"></d-cite> in the Journal of Alloys and Compounds.
 
 <script src="/assets/js/distillpub/template.v2.js"></script>
 <script src="/assets/js/distillpub/transforms.v2.js"></script>

@@ -7,7 +7,7 @@ importance: 4
 category: work 
 ---
 
-A <a href="https://www.researchgate.net/publication/331488376_Finding_misorientation_of_grain_boundaries_from_Euler_angles_for_cubic_systems">code</a> was developed using MATLAB to calculate the grain boudnary (GB) misorientation based on user given Euler angles.
+A <a rel="nofollow" href="https://www.researchgate.net/publication/331488376_Finding_misorientation_of_grain_boundaries_from_Euler_angles_for_cubic_systems">code</a> was developed using MATLAB to calculate the grain boudnary (GB) misorientation based on user given Euler angles.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">

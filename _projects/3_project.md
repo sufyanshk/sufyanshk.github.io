@@ -32,7 +32,7 @@ We found that the ROM calculated densities match perfectly with CALPHAD values. 
     Scatter matrix plot of quinary RHEA.
 </div>
 
-The numbers in blue in the above figures show the <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient">Pearson's correlation coefficient</a>. The 6 distinct groups in δ vs. Cp graph of quinary RHEA needs further research. Some of the findings from this work were later proved by experimental and/or DFT simulations by different researchers. The addition of HCP elements was shown to increase the Pugh's ratio<d-cite key="Pugh1954"></d-cite> of alloys indicating that HCP elemental addition leads to improvement in the ductility of RHEA. However, Pugh's ratio is an empirical parameter borrowed from FCC pure metals in 1954. The applicability of Pugh's ratio to BCC systems remains to be verified.
+The numbers in blue in the above figures show the <a rel="nofollow" href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient">Pearson's correlation coefficient</a>. The 6 distinct groups in δ vs. Cp graph of quinary RHEA needs further research. Some of the findings from this work were later proved by experimental and/or DFT simulations by different researchers. The addition of HCP elements was shown to increase the Pugh's ratio<d-cite key="Pugh1954"></d-cite> of alloys indicating that HCP elemental addition leads to improvement in the ductility of RHEA. However, Pugh's ratio is an empirical parameter borrowed from FCC pure metals in 1954. The applicability of Pugh's ratio to BCC systems remains to be verified.
 
 This work resulted in a publication<d-cite key="Shaikh2020m"></d-cite> in the Intermetallics journal and an AFRL project report<d-cite key="AFRL2022"></d-cite>.
 

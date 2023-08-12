@@ -7,7 +7,7 @@ importance: 6
 category: work 
 ---
 
-This project is led by <a href="https://www.linkedin.com/in/vinod-sarky">Vinod Sarky</a>, who is a Master's student in our <a href="http://mme.iitm.ac.in/satyesh/index.html">research group</a>.
+This project is led by <a rel="nofollow" href="https://www.linkedin.com/in/vinod-sarky">Vinod Sarky</a>, who is a Master's student in our <a rel="nofollow" href="http://mme.iitm.ac.in/satyesh/index.html">research group</a>.
 
 In our earlier work<d-cite key="Shaikh2020m"></d-cite> we found that addition of HCP elements such as Ti/Zr/Hf leads to improved Pugh's ratio and lower density in concentrated refractory alloys. However, these HCP elements are susceptible to oxygen absorption. In this work we are studying the oxygen behavior in concentrated refractory alloys.
 
@@ -24,7 +24,7 @@ We found that the first nearest neighbors (1NN) has the largest influence on the
 
 The first step in oxidation of an alloy is the generation of a stable oxygen interstitial at an energetically favorable site. If we are able to "engineer" better local chemistry variation in the alloy crystal then the oxygen interstitial can be made unstable in the alloy, i.e., we will be able to design oxidation resistant refractory alloys for high-temperature applications.
 
-Vinod has developed a <a href="https://github.com/VinoSarky/NEIGHBOR">code</a> to calcualte the list of nearest neighbors (NN) based on cut-off radius.
+Vinod has developed a <a rel="nofollow" href="https://github.com/VinoSarky/NEIGHBOR">code</a> to calcualte the list of nearest neighbors (NN) based on cut-off radius.
 
 <script src="/assets/js/distillpub/template.v2.js"></script>
 <script src="/assets/js/distillpub/transforms.v2.js"></script>
