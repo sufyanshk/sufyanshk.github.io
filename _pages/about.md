@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! Welcome to my website.
-**I have graduated with a Masters and PhD in Metallurgical and Materials Engineering from the Indian Institute of Technology (IIT) Madras, and actively seeking full-time roles. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
+**I have experience of working at all 9 Technology Readiness Levels (TRLs). I would be happy to present my work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications. I am actively looking for full-time positions that rely on Physical Metallurgy complemented by Computational Materials Engineering/Integrated Computational Materials Engineering (ICME) to optimize products and processes. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
 
-I am a PhD graduate from the Indian Institute of Technology Madras (IIT Madras), Tamil Nadu, India, where I developed alloys for high-temperature structural applications using ab-initio atomistic modeling. My PhD thesis is on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory metal alloys. My thesis advisors were <a rel="nofollow" href="https://mme.iitm.ac.in/murty/bsmurty">Prof. B. S. Murty</a> (Director - Indian Insitute of Technology Hyderabad) and <a rel="nofollow"  href="https://mme.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras).
+I have Masters and PhD in Metallurgical and Materials Engineering from the Indian Institute of Technology Madras (IIT Madras), Tamil Nadu, India, where I developed alloys for high-temperature structural applications using ab-initio atomistic modeling. My PhD thesis is on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory metal alloys. My thesis advisors were <a rel="nofollow" href="https://mme.iitm.ac.in/murty/bsmurty">Prof. B. S. Murty</a> (Director - Indian Insitute of Technology Hyderabad) and <a rel="nofollow"  href="https://mme.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras).
 
 For my PhD, I extensively used various Computational Materials Engineering tools such as <a rel="nofollow" href="https://vasp.at">Vienna Ab-initio Simulation Package</a> (Density Functional Theory/ab-initio Atomistic Modeling), <a rel="nofollow" href="https://jp-minerals.org/vesta/en/download.html">VESTA</a> (atomic structure visualization), <a rel="nofollow" href="https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/">ATAT</a> (for special quasi-random structure generation), and <a rel="nofollow" href="https://atomsk.univ-lille.fr">Atomsk</a> (atomic structure file manipulation) to create <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a> of microstructural phases of metals and alloys. I enjoy automating routine tasks using Shell scripting/programming, which saves time and effort.
 
@@ -55,7 +55,9 @@ I believe the next revolution in Materials Development will happen at the conflu
     Graduation photo at IIT Madras. 
 </div>
 
-I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, and Urdu during my free time. **I have graduated with a Masters and PhD in Metallurgical and Materials Engineering from the Indian Institute of Technology (IIT) Madras, and actively seeking full-time roles. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
+I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time.
+
+**I have experience of working at all 9 Technology Readiness Levels (TRLs). I would be happy to present my work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications. I am actively looking for full-time positions that rely on Physical Metallurgy complemented by Computational Materials Engineering/Integrated Computational Materials Engineering (ICME) to optimize products and processes. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
 
 Here's a short video where I was part of IIT Madras' Research Scholars video.
 <div class="row justify-content-sm-center">
