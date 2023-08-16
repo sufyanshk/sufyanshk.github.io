@@ -19,7 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! Welcome to my website.
-**I have experience of working at all 9 Technology Readiness Levels (TRLs). I would be happy to present my work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications. I am actively looking for full-time positions that rely on Physical Metallurgy complemented by Computational Materials Engineering/Integrated Computational Materials Engineering (ICME) to optimize products and processes. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
+**I am actively looking for full-time positions. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
+I would be happy to present my work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
 
 I have Masters and PhD in Metallurgical and Materials Engineering from the Indian Institute of Technology Madras (IIT Madras), Tamil Nadu, India, where I developed alloys for high-temperature structural applications using ab-initio atomistic modeling. My PhD thesis is on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory metal alloys. My thesis advisors were <a rel="nofollow" href="https://mme.iitm.ac.in/murty/bsmurty">Prof. B. S. Murty</a> (Director - Indian Insitute of Technology Hyderabad) and <a rel="nofollow"  href="https://mme.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras).
 
@@ -57,7 +58,8 @@ I believe the next revolution in Materials Development will happen at the conflu
 
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time.
 
-**I have experience of working at all 9 Technology Readiness Levels (TRLs). I would be happy to present my work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications. I am actively looking for full-time positions that rely on Physical Metallurgy complemented by Computational Materials Engineering/Integrated Computational Materials Engineering (ICME) to optimize products and processes. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
+**I am actively looking for full-time positions. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
+I would be happy to present my work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
 
 Here's a short video where I was part of IIT Madras' Research Scholars video.
 <div class="row justify-content-sm-center">
