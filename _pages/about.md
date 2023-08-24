@@ -64,7 +64,7 @@ I would be happy to present my work to your team and discuss how to leverage Mat
 *Testimonials from some of my colleagues:*
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/testimonials.png" title="Testimonials" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/testimonials.jpg" title="Testimonials" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
