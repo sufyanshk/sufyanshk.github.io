@@ -61,6 +61,16 @@ I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to 
 **I am actively looking for full-time positions. Let me know if you have any opportunity at sufyanshk[at]gmail[dot]com**
 I would be happy to present my work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
 
+*Testimonials from some of my colleagues:*
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/testimonials.png" title="Testimonials" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Testimonials from my colleagues at Bekaert.
+</div>
+
 Here's a short video where I was part of IIT Madras' Research Scholars video.
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
