@@ -26,7 +26,7 @@ where $$\Delta E_f$$ is the enthalpy of formation at 0K, $$\Delta(PV)$$ is the p
     Percentage contribution from configurational and vibrational entropies to the overall entropy in W75Re25 alloy.
 </div>
 
-Our focus in present work is to understand how much $$\Delta S_{vib}$$ is contributing to the overall $$\Delta S$$. We found that contrary to the long held notion that the $$\Delta S_{config}$$ is the primary reason for calling "High Entropy Alloy" as "High Entropy", it is the $$\Delta S_{vib}$$ which is contributing majorly to the overall entropy in concetrated alloys. We observed this after studying the absolute entropy $$S$$ and the difference of entropy $$\Delta S$$ of alloy with its constituent elements. This work has been archived<d-cite key="Atik2023"></d-cite> and has been submitted.
+Our focus in present work is to understand how much $$\Delta S_{vib}$$ is contributing to the overall $$\Delta S$$. We found that contrary to the long held notion that the $$\Delta S_{config}$$ is the primary reason for calling "High Entropy Alloy" as "High Entropy", it is the $$\Delta S_{vib}$$ which is contributing majorly to the overall entropy in concetrated alloys. We observed this after studying the absolute entropy $$S$$ and the difference of entropy $$\Delta S$$ of alloy with its constituent elements. This work has been published<d-cite key="Atik2023"></d-cite> and has been submitted.
 
 
 <script src="/assets/js/distillpub/template.v2.js"></script>
