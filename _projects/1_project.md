@@ -63,9 +63,7 @@ Based on the above methodology our goal is to optimally reduce the number of all
     The alloy development funnel drastically reduces the number of systems to be studied.
 </div>
 
-The alloy development funnel ensures that the compositional explosion does not take place as we move from binaries to ternaries to higher-order alloy systems. What criteria to be selected to filter out alloy candidates is an integral part of my PhD dissertation. Every stage in the above funnel reduces the number of alloys to be studied based on specific property expectations criteria. This work has recently been published in the Journal of Applied Physics<d-cite key="Shaikh2023c"></d-cite>.
-
-This is ongoing work; hence this page will be updated periodically.
+The alloy development funnel ensures that the compositional explosion does not take place as we move from binaries to ternaries to higher-order alloy systems. What criteria to be selected to filter out alloy candidates is an integral part of my PhD dissertation. Every stage in the above funnel reduces the number of alloys to be studied based on specific property expectations criteria. This work has been published in the Journal of Applied Physics<d-cite key="Shaikh2023c"></d-cite>.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
