@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Dr. Sufyan
+first_name: Sufyan
 middle_name: M.
-last_name: Shaikh
+last_name: Shaikh, PhD
 email: sufyanshk@gmail.com
 description: About Dr. Shaikh from the Indian Institute of Technology Madras, Tamil Nadu, India. Read about his ongoing research in Computational Materials Engineering and his experiences.
 footer_text: All rights reserved. No content of this website shall be used for Generative AI, Data Analytics, Artificial Inelligence, Artificial Neural Networks, Machine Learning, Deep Learning, Reinforcement Learning, Chatbots, or any other such technologies. All proprietary/open-source softwares are of their respective owners/trademark holders. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
