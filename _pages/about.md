@@ -19,7 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! Welcome to my website.
-I would be happy to present my work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
+
+I would be happy to present my PhD work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
 
 I have Bacherlors (COEP), Masters (IIT Madras), and PhD (IIT Madras) in Metallurgical and Materials Engineering. I developed alloys for high-temperature structural applications using Ab-initio Atomistic Modeling for my PhD. I developed a refractory metal based alternative to superalloy using First-principles Atomistic Modeling that can have better high-temperature properties than the current state-of-the art Ni-based superalloys. My PhD thesis was on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory metal alloys. My thesis advisors were <a rel="nofollow" href="https://mme.iitm.ac.in/murty/bsmurty">Prof. B. S. Murty</a> (Director - Indian Insitute of Technology Hyderabad) and <a rel="nofollow"  href="https://mme.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras).
 
